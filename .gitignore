@@ -1,12 +1,21 @@
-<html xmlns = "https:www.w3.org//1999/xhtml" lang="es"xmlns: lang= "es">
-  
-  <head>
-    <title>practica submodulo2</title>
-    </head>
-    
-    <body>
-     Alert (Hola mundo)
-      
-      </body>
-      
-      </html>
+<IDOCTYPE html>
+
+<html lang="en"> <head>
+
+
+<meta charsert-"UTF-8">
+
+<title>Document</title>
+
+<script type="text/javascript">
+
+alert("Hola mundo")
+
+</script>
+
+
+
+<head>
+
+<body>
+ </html>
